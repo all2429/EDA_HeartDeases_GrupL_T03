@@ -1,7 +1,8 @@
-# EDA_California_GrupK_T03
- Exploratory Data Analysis on Heart Housing Price Prediction - Tugas Kelompok AI
-# EDA Heart Housing Price Prediction  
-Analisis eksplorasi data (EDA) untuk Heart Housing Price Prediction.  
+#  Prediksi Konsumsi Energi Rumah
+  Prediksi Konsumsi Energi Rumah - Tugas Kelompok AI
+#  Prediksi Konsumsi Energi Rumah 
+Analisis eksplorasi data Prediksi Konsumsi 
+Energi Rumah .  
 
 ## Anggota Kelompok  
 
@@ -9,5 +10,5 @@ Analisis eksplorasi data (EDA) untuk Heart Housing Price Prediction.
 - Diky Mey Fadil
 
 ## Cara Menjalankan  
-1. Buka file EDA_Heart_GrupL_T03.ipynb di Google Colab/Jupyter.  
-2. Upload dataset Heart_housing_data.csv saat diminta.
+1. Buka file Prediksi Konsumsi Energi Rumah.ipynb di Google Colab/Jupyter.  
+2. Upload dataset  Prediksi_Konsumsi_Energi_Rumah.csv saat diminta.
